@@ -48,11 +48,5 @@ python main.py
 - `config/emojis.py` - Custom emoji definitions
 - `requirements.txt` - Dependencies
 
-## 🎵 Additional Features
-- Music system with Wavelink
-- Song play tracking
-- Database statistics
-- System monitoring
-
 
 **Made with ❤️ by the Flash Development Team**
