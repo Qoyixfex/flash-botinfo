@@ -1,0 +1,6 @@
+discord.py
+wavelink
+psutil
+aiosqlite
+aiohttp
+PyNaCl
