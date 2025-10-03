@@ -43,7 +43,6 @@ python main.py
 ```
 
 ## 📁 Files Needed
-- `main.py` - Bot setup and token handling
 - `stats.py` - Bot info command and menus  
 - `config/emojis.py` - Custom emoji definitions
 - `requirements.txt` - Dependencies
