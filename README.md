@@ -50,6 +50,5 @@ python main.py
 - Database statistics
 - System monitoring
 
-**Perfect for showing off your bot's capabilities!** 🚀
 
 **Made with ❤️ by the Flash Development Team**
