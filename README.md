@@ -26,12 +26,16 @@ A Discord bot featuring an advanced `!botinfo` command with interactive menus an
 
 ## 🛠️ Setup
 
-1. **Install requirements:**
+1. **Install git:**
+```bash
+git clone https://github.com/Qoyixfex/flash-botinfo/
+cd flashbotinfo
+```
+
+2. **Install requirements:**
 ```bash
 pip install discord.py psutil aiosqlite wavelink
 ```
-
-2. **Add your bot token to `token.txt`**
 
 3. **Run the bot:**
 ```bash
